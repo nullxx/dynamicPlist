@@ -1,5 +1,5 @@
-# dynamicPlist // Plist creator
-This script creates a plist with no need of a plist file.
+# dynamicPlist // Plist creator for apache2
+This script creates a plist with no need of a plist file on apache2.
 
 ## USAGE
     - Install PHP
