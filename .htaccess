@@ -1,2 +1,3 @@
 # Internally rewrite `.html` to `.php`
+RewriteEngine On
 RewriteRule ^(.+)\.plist$ index.php?appname=$1 [L]
